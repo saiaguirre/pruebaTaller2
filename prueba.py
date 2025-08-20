@@ -1,2 +1,2 @@
 print('hola mundo')
-input('Presione enter para salir')
+print('chau mundo')
